@@ -1,5 +1,5 @@
-import "../assets/Navbar.css";
-import logo from "../assets/logo.png";
+import "../components/Navbar.css";
+import logo from "../assets/Netflute-18-11-2024_1.png";
 import dropdown from "../assets/dropdown.svg";
 import notification from "../assets/notification.svg";
 import search from "../assets/search.svg";
